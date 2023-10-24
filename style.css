@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-body {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+}
